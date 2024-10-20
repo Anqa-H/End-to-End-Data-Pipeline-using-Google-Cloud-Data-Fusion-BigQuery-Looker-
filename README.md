@@ -31,6 +31,12 @@ Extracted the CSV file from Cloud Storage into Data Fusion.
 Data Transformation & Masking:
 Used Data Fusion Wrangler to clean and mask sensitive information.
 
+![Image Alt Text](https://github.com/Anqa-H/End-to-End-Data-Pipeline-using-Google-Cloud-Data-Fusion-BigQuery-Looker-/blob/20d281eab33b303a068aac2eebebc482ee42b0bb/Screenshot%202024-10-19%20171838.jpg)
+
+
+![Image Alt Text]()
+
+
 Data Storage:
 Loaded the masked data into a BigQuery table for secure storage and analysis.
 
