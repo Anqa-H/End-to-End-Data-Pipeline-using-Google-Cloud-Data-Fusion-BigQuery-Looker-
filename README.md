@@ -8,8 +8,14 @@ I created this project to extract employee data from various sources, mask sensi
 Requirements:
 
 Data Extraction: Retrieve employee data from multiple sources.
+
+
 Data Masking: Mask sensitive information like salaries and personal data to ensure data privacy.
+
+
 Data Loading: Securely load the masked data into BigQuery.
+
+
 Dashboard Visualization: Develop a web-based dashboard using Looker to visualize the employee data.
 
 
