@@ -34,7 +34,7 @@ Used Data Fusion Wrangler to clean and mask sensitive information.
 ![Image Alt Text](https://github.com/Anqa-H/End-to-End-Data-Pipeline-using-Google-Cloud-Data-Fusion-BigQuery-Looker-/blob/20d281eab33b303a068aac2eebebc482ee42b0bb/Screenshot%202024-10-19%20171838.jpg)
 
 
-![Image Alt Text]()
+![Image Alt Text](https://github.com/Anqa-H/End-to-End-Data-Pipeline-using-Google-Cloud-Data-Fusion-BigQuery-Looker-/blob/7893d952813479a0babe697e46f6e5cb39730e6e/Screenshot%202024-10-19%20171702.jpg)
 
 
 Data Storage:
