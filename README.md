@@ -14,7 +14,7 @@ Dashboard Visualization: Develop a web-based dashboard using Looker to visualize
 
 
 Solution:
-![Image Alt Text]()
+![Image Alt Text](https://github.com/Anqa-H/End-to-End-Data-Pipeline-using-Google-Cloud-Data-Fusion-BigQuery-Looker-/blob/557b6f6e78abba6e709a35b431fb23c0b774f0ff/GCP.drawio.png)
 
 
 Data Generation:
