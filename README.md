@@ -2,6 +2,7 @@
 End-to-End Data Pipeline using Google Cloud (Data Fusion, BigQuery, Looker)
 
 Project Overview:
+
 I created this project to extract employee data from various sources, mask sensitive information, load it into BigQuery, and develop a dashboard to visualize the data.
 
 Requirements:
