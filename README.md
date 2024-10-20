@@ -37,6 +37,12 @@ Used Data Fusion Wrangler to clean and mask sensitive information.
 ![Image Alt Text](https://github.com/Anqa-H/End-to-End-Data-Pipeline-using-Google-Cloud-Data-Fusion-BigQuery-Looker-/blob/7893d952813479a0babe697e46f6e5cb39730e6e/Screenshot%202024-10-19%20171702.jpg)
 
 
+Pipeline Automation: Automated the pipeline in Data Fusion to run monthly.
+
+
+![Image Alt Text](https://github.com/Anqa-H/End-to-End-Data-Pipeline-using-Google-Cloud-Data-Fusion-BigQuery-Looker-/blob/03866b2a609d1a401b1168c2f371fdd50a67ed2d/Screenshot%202024-10-19%20182426.jpg)
+
+
 Data Storage:
 Loaded the masked data into a BigQuery table for secure storage and analysis.
 
